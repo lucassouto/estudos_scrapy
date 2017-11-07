@@ -108,3 +108,6 @@ venv.bak/
 
 # files
 *.html
+*.json
+*.jl
+*.txt
